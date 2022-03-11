@@ -10,13 +10,13 @@ int main() {
 
 	while (true) {
 		//Display the menu
-		cout << "Choose an option:" << endl;
 		cout << "1. Add an assignment grade" << endl;
 		cout << "2. Show all assignment grades" << endl;
 		cout << "3. Give 5 point bonus" << endl;
 		cout << "4. Drop lowest assignment grade" << endl;
 		cout << "5. Display current percentage" << endl;
-		cout << "6. Exit" << endl;
+		cout << "6. Exit" << endl << endl;
+		cout << "Choose an option: ";
 		int input;
 		cin >> input;
 
