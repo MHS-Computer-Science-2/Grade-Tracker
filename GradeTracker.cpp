@@ -21,10 +21,10 @@ int main() {
 		cin >> input;
 
 		//Use if-statements to choose an action based on the user's choice
-    if(input == 1){
-       //Add an assignment to the vector
+    		if(input == 1){
+       		   //Add an assignment to the vector
        
-    }
+    		}
 		
 
 		//Pause and clear screen before displaying menu again
